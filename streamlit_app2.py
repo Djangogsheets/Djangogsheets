@@ -23,14 +23,3 @@ if bottom_image is not None:
     st.image(new_image)
 
 
-#htp7 = "https://drive.google.com/file/d/1-3YgXi2RF2PqCpRu7YypDyfVwUal2Nab/view?usp=share_link" 
-#st.image(htp7, caption= "The streamlit image from GOOGLE DRIVE", width=800)    
-top_image = st.file_uploader('"https://drive.google.com/file/d/1-3YgXi2RF2PqCpRu7YypDyfVwUal2Nab/view?usp=share_link"', type='jpg', key=6)
-if top_image is not None:
-    image = Image.open(top_image)
-    new_image = image.resize((200, 100))
-    st.image(new_image)
-
-#image = Image.open('imagefile')
-#displaying the image on streamlit app
-#st.image(image, caption='Enter any caption here')
