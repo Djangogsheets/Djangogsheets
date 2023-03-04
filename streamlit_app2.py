@@ -24,9 +24,9 @@ st.markdown("Kontak Sirah direk op WHATS APP nr: 000 0000 0000")
 
 
 
-Image.open("https://github.com/Djangogsheets/Djangogsheets/blob/main/Screenshot_20230304_032757_com.android.chrome.jpg")
+#Image.open("https://github.com/Djangogsheets/Djangogsheets/blob/main/Screenshot_20230304_032757_com.android.chrome.jpg")
 
-
+Image.open('https://drive.google.com/file/d/1-3YgXi2RF2PqCpRu7YypDyfVwUal2Nab/view?usp=drivesdk')
 
 
 #displaying the image on streamlit app
