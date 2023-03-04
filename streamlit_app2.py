@@ -1,6 +1,5 @@
 # streamlit_app.py
 import streamlit as st
-from PIL import Image
 #from streamlit_faker import get_streamlit_faker
 
 st.title("Hi Daar Sirah Jamien")
@@ -11,25 +10,6 @@ st.title("Gee vir die Dokter se vrou ook Blomme !!!")
 
 st.markdown("Kontak Sirah direk op WHATS APP nr: 000 0000 0000")
 
-
-#opening the image
-
-
-
-
-
-#imagefile = st.image("https://github.com/Djangogsheets/Djangogsheets/blob/main/Screenshot_20230304_032757_com.android.chrome.jpg")
-
-
-
-
-
-#Image.open("https://github.com/Djangogsheets/Djangogsheets/blob/main/Screenshot_20230304_032757_com.android.chrome.jpg")
-
-Image.open('https://drive.google.com/file/d/1-3YgXi2RF2PqCpRu7YypDyfVwUal2Nab/view?usp=drivesdk')
-
-
-#displaying the image on streamlit app
-
-#st.image(image, caption='Enter any caption here')
-
+image7 = Image.open(htp7)
+htp7='https://drive.google.com/file/d/1-3YgXi2RF2PqCpRu7YypDyfVwUal2Nab/view?usp=share_link' 
+st.image(htp7, caption= 'Inventory Planner', width=800)
