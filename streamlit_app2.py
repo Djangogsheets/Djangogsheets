@@ -1,6 +1,6 @@
 # streamlit_app.py
 import streamlit as st
-from PIL import image
+from PIL Import image
 #from streamlit_faker import get_streamlit_faker
 
 st.title("Hi Daar Sirah Jamien")
@@ -25,5 +25,5 @@ st.image("https://github.com/Djangogsheets/Djangogsheets/blob/main/Screenshot_20
 
 #displaying the image on streamlit app
 
-st.image(image, caption='Enter any caption here')
+#st.image(image, caption='Enter any caption here')
 
