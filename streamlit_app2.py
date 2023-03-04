@@ -10,5 +10,5 @@ st.title("Gee vir die Dokter se vrou ook Blomme !!!")
 
 st.markdown("Kontak Sirah direk op WHATS APP nr: 000 0000 0000")
 
-htp7='https://drive.google.com/file/d/1-3YgXi2RF2PqCpRu7YypDyfVwUal2Nab/view?usp=share_link' 
-st.image(htp7, caption= 'Inventory Planner', width=800)
+htp7 = "https://drive.google.com/file/d/1-3YgXi2RF2PqCpRu7YypDyfVwUal2Nab/view?usp=share_link" 
+st.image(htp7, caption= "Inventory Planner", width=800)
