@@ -1,6 +1,6 @@
 # streamlit_app.py
 import streamlit as st
-from PIL Import image
+from PIL import Image
 #from streamlit_faker import get_streamlit_faker
 
 st.title("Hi Daar Sirah Jamien")
