@@ -10,7 +10,19 @@ st.title("Gee vir die Dokter se vrou ook Blomme !!!")
 
 st.markdown("Kontak Sirah direk op WHATS APP nr: 000 0000 0000")
 
+
+#opening the image
+
+image = Image.open('imagefile')
+
+
+
 st.image("https://github.com/Djangogsheets/Djangogsheets/blob/main/Screenshot_20230304_032757_com.android.chrome.jpg")
 
 
+
+
+#displaying the image on streamlit app
+
+st.image(image, caption='Enter any caption here')
 
