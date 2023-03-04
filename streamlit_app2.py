@@ -18,13 +18,13 @@ st.markdown("Kontak Sirah direk op WHATS APP nr: 000 0000 0000")
 
 
 
-imagefile = st.image("https://github.com/Djangogsheets/Djangogsheets/blob/main/Screenshot_20230304_032757_com.android.chrome.jpg")
+#imagefile = st.image("https://github.com/Djangogsheets/Djangogsheets/blob/main/Screenshot_20230304_032757_com.android.chrome.jpg")
 
 
 
 
 
-image = Image.open("https://github.com/Djangogsheets/Djangogsheets/blob/main/Screenshot_20230304_032757_com.android.chrome.jpg")
+Image.open("https://github.com/Djangogsheets/Djangogsheets/blob/main/Screenshot_20230304_032757_com.android.chrome.jpg")
 
 
 
